@@ -74,7 +74,7 @@ Egzersiz hareketleri sayfasında, mevcut tüm egzersiz hareketlerini ve tekrar s
 
 Diyet listesi sayfasında, farklı diyet türlerini ve içeriklerini görebilirsiniz. 
 
-## Katkıda Bulunma
+
 
 Eğer projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya bir issue açın.
 
