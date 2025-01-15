@@ -26,6 +26,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 2. **Proje Dosyalarını İndirin**:
    - Bu proje dosyalarını bilgisayarınıza indirin.
+https://github.com/selovii23/kisisel-saglik-asistani/blob/main/main.py
 
 3. **Proje Dosyalarını Çalıştırın**:
    - Terminal veya Komut İstemi'ni açın.
